@@ -1,0 +1,4887 @@
+fileFormatVersion: 2
+guid: 585dedf0d9c7fa34c8362e92ffefcbd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: DnaLamarCover
+  - first:
+      213: 21300002
+    second: FinalBossChanCover
+  - first:
+      213: 21300004
+    second: TheGreatestShowCover
+  - first:
+      213: 21300006
+    second: IDontCareCover
+  - first:
+      213: 21300008
+    second: BellyacheCover
+  - first:
+      213: 21300010
+    second: BoulevardOfBrokenDreamsCover
+  - first:
+      213: 21300012
+    second: BlindingLightsCover
+  - first:
+      213: 21300014
+    second: GoodAsHellCover
+  - first:
+      213: 21300016
+    second: ThisTimeCover
+  - first:
+      213: 21300018
+    second: ImmortalCover
+  - first:
+      213: 21300020
+    second: ReasonForLivingCover
+  - first:
+      213: 21300022
+    second: NewDivide
+  - first:
+      213: 21300024
+    second: WaitingAllNightCover
+  - first:
+      213: 21300026
+    second: DnaCover
+  - first:
+      213: 21300028
+    second: DionysusCover
+  - first:
+      213: 21300030
+    second: FakeLoveCover
+  - first:
+      213: 21300032
+    second: WarriorsCover
+  - first:
+      213: 21300034
+    second: IrresistibleCover
+  - first:
+      213: 21300036
+    second: WhatTheCatCover
+  - first:
+      213: 21300038
+    second: NaturalCover
+  - first:
+      213: 21300040
+    second: FamousCover
+  - first:
+      213: 21300042
+    second: AmericanIdiotCover
+  - first:
+      213: 21300044
+    second: ExitThisEarthsAtomosphereCover
+  - first:
+      213: 21300046
+    second: EmperorsNewClothesCover
+  - first:
+      213: 21300048
+    second: HowDoIMakeYouLoveMeCover
+  - first:
+      213: 21300050
+    second: SandstormCover
+  - first:
+      213: 21300052
+    second: ThisAintASceneCover
+  - first:
+      213: 21300054
+    second: TruthHurtsCover
+  - first:
+      213: 21300056
+    second: IWannaBeAMachineCover
+  - first:
+      213: 21300058
+    second: ThereforeIAmCover
+  - first:
+      213: 21300060
+    second: TakeMyBreathCover
+  - first:
+      213: 21300062
+    second: WitchcraftCover
+  - first:
+      213: 21300064
+    second: RattlesnakeCover
+  - first:
+      213: 21300066
+    second: CrystallizedAndLightItUpCover
+  - first:
+      213: 21300068
+    second: BoyWithLuvCover
+  - first:
+      213: 21300070
+    second: AboutDamnTimeCover
+  - first:
+      213: 21300072
+    second: FirstOfTheYearCover
+  - first:
+      213: 21300074
+    second: INeedYouCover
+  - first:
+      213: 21300076
+    second: CountingStarsCover
+  - first:
+      213: 21300078
+    second: BadLiarCover
+  - first:
+      213: 21300080
+    second: TempoCover
+  - first:
+      213: 21300082
+    second: OriginsCover
+  - first:
+      213: 21300084
+    second: FitBeat
+  - first:
+      213: 21300086
+    second: IcarusCover
+  - first:
+      213: 21300088
+    second: 100BillsRemixCover
+  - first:
+      213: 21300090
+    second: JustDanceCover
+  - first:
+      213: 21300092
+    second: SpookyBeatCover
+  - first:
+      213: 21300094
+    second: TestMeCover
+  - first:
+      213: 21300096
+    second: CommercialPumpingCover
+  - first:
+      213: 21300098
+    second: GlideCover
+  - first:
+      213: 21300100
+    second: DontChaCover
+  - first:
+      213: 21300102
+    second: GhostCover
+  - first:
+      213: 21300104
+    second: FireReadyAimCover
+  - first:
+      213: 21300106
+    second: LuvUNeedUCover
+  - first:
+      213: 21300108
+    second: Numb
+  - first:
+      213: 21300110
+    second: OneStepCloser
+  - first:
+      213: 21300112
+    second: CuzILoveYouCover
+  - first:
+      213: 21300114
+    second: DynamiteCover
+  - first:
+      213: 21300116
+    second: GhostsNStuffCover
+  - first:
+      213: 21300118
+    second: AngelVoicesCover
+  - first:
+      213: 21300120
+    second: PlayCover
+  - first:
+      213: 21300122
+    second: RaggaBombCover
+  - first:
+      213: 21300124
+    second: LudicrousPlusCover
+  - first:
+      213: 21300126
+    second: WorshipCover
+  - first:
+      213: 21300128
+    second: FatherOfAllCover
+  - first:
+      213: 21300130
+    second: NotTodayCover
+  - first:
+      213: 21300132
+    second: SomewhereIBelong
+  - first:
+      213: 21300134
+    second: TheDevilsDenCover
+  - first:
+      213: 21300136
+    second: PaparazziCover
+  - first:
+      213: 21300138
+    second: StayTheNightCover
+  - first:
+      213: 21300140
+    second: GivenUp
+  - first:
+      213: 21300142
+    second: BreakingTheHabit
+  - first:
+      213: 21300144
+    second: EpicCover
+  - first:
+      213: 21300146
+    second: $100BillsCover
+  - first:
+      213: 21300148
+    second: EscapeCover
+  - first:
+      213: 21300150
+    second: MagicCover
+  - first:
+      213: 21300152
+    second: TillItsOverCover
+  - first:
+      213: 21300154
+    second: RockNRollCover
+  - first:
+      213: 21300156
+    second: FirestarterCover
+  - first:
+      213: 21300158
+    second: LvlInsaneCover
+  - first:
+      213: 21300160
+    second: BangarangCover
+  - first:
+      213: 21300162
+    second: RollinCover
+  - first:
+      213: 21300164
+    second: CycleHitCover
+  - first:
+      213: 21300166
+    second: BadGuyCover
+  - first:
+      213: 21300168
+    second: BoundlessCover
+  - first:
+      213: 21300170
+    second: StarboyCover
+  - first:
+      213: 21300172
+    second: SugarCover
+  - first:
+      213: 21300174
+    second: KingsAndFolkCover
+  - first:
+      213: 21300176
+    second: JuiceCover
+  - first:
+      213: 21300178
+    second: BreezerCover
+  - first:
+      213: 21300180
+    second: LegendCover
+  - first:
+      213: 21300182
+    second: CenturiesCover
+  - first:
+      213: 21300184
+    second: ScaryMonstersAndNiceSpritesCover
+  - first:
+      213: 21300186
+    second: MySongsKnowCover
+  - first:
+      213: 21300188
+    second: BornThisWayCover
+  - first:
+      213: 21300190
+    second: NDACover
+  - first:
+      213: 21300192
+    second: TheSweetEscapeCover
+  - first:
+      213: 21300194
+    second: RadioactiveAndItsTimeCover
+  - first:
+      213: 21300196
+    second: DontGoCover
+  - first:
+      213: 21300198
+    second: SaveYourTearsCover
+  - first:
+      213: 21300200
+    second: StupidLoveCover
+  - first:
+      213: 21300202
+    second: AloneCover
+  - first:
+      213: 21300204
+    second: WeWontBeAloneCover
+  - first:
+      213: 21300206
+    second: DefaultSongArtwork
+  - first:
+      213: 21300208
+    second: CurtainsAllNightLongCover
+  - first:
+      213: 21300210
+    second: WhatIveDone
+  - first:
+      213: 21300212
+    second: HappierThanEverCover
+  - first:
+      213: 21300214
+    second: ElixiaCover
+  - first:
+      213: 21300216
+    second: InTheEnd
+  - first:
+      213: 21300218
+    second: TurnMeOnCover
+  - first:
+      213: 21300220
+    second: BelieverCover
+  - first:
+      213: 21300222
+    second: IntoTheDreamLevelCover
+  - first:
+      213: 21300224
+    second: EmojiVIPCover
+  - first:
+      213: 21300226
+    second: PrayForMeCover
+  - first:
+      213: 21300228
+    second: WhileWereYoungCover
+  - first:
+      213: 21300230
+    second: PokerFaceCover
+  - first:
+      213: 21300232
+    second: 2BeLovedCover
+  - first:
+      213: 21300234
+    second: BleedItOut
+  - first:
+      213: 21300236
+    second: UnlimitedPowerCover
+  - first:
+      213: 21300238
+    second: IFeelItComingCover
+  - first:
+      213: 21300240
+    second: TelephoneCover
+  - first:
+      213: 21300242
+    second: SpinEternallyCover
+  - first:
+      213: 21300244
+    second: GiveALittleLoveCover
+  - first:
+      213: 21300246
+    second: ShiawaseCover
+  - first:
+      213: 21300248
+    second: WhateverItTakesCover
+  - first:
+      213: 21300250
+    second: DopeCover
+  - first:
+      213: 21300252
+    second: UghCover
+  - first:
+      213: 21300254
+    second: MachineCover
+  - first:
+      213: 21300256
+    second: TheHills
+  - first:
+      213: 21300258
+    second: HolidayCover
+  - first:
+      213: 21300260
+    second: MinorityCover
+  - first:
+      213: 21300262
+    second: BeThereForYouCover
+  - first:
+      213: 21300264
+    second: IDidntChangeMyNumberCover
+  - first:
+      213: 21300266
+    second: BuryAFriendCover
+  - first:
+      213: 21300268
+    second: RainOnMeCover
+  - first:
+      213: 21300270
+    second: BurningUpCover
+  - first:
+      213: 21300272
+    second: OxytocinCover
+  - first:
+      213: 21300274
+    second: SacrificeCover
+  - first:
+      213: 21300276
+    second: ImmortalsCover
+  - first:
+      213: 21300278
+    second: TheEdgeOfGloryCover
+  - first:
+      213: 21300280
+    second: MicDropCover
+  - first:
+      213: 21300282
+    second: YouShouldSeeMeInACrownCover
+  - first:
+      213: 21300284
+    second: DollarSeventyEightCover
+  - first:
+      213: 21300286
+    second: ButterfliesCover
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 160
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DnaLamarCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79702061534721ab52eb9d4837dcd5
+      internalID: 21300000
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FinalBossChanCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfb3032b8ab42f081351c763421497b
+      internalID: 21300002
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheGreatestShowCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d270209fca554acd857b34647973709a
+      internalID: 21300004
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDontCareCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fea77b780f4a349d1677ede87c16ea
+      internalID: 21300006
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BellyacheCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb40d1b424e4e3d937447aed839f4c5
+      internalID: 21300008
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoulevardOfBrokenDreamsCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858058a9007c4ab2ac9a65483795a4c5
+      internalID: 21300010
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlindingLightsCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357cb18fc872422680046d38523de982
+      internalID: 21300012
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoodAsHellCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c17191b3ef49a090ff22216f388d3d
+      internalID: 21300014
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThisTimeCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ec02952f0148ef8b4c8efb5d2509cb
+      internalID: 21300016
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmortalCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068e49f72c0c4be0975ad058f88938ed
+      internalID: 21300018
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReasonForLivingCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aa0deaaf9f4deb85617b3e6cba066e
+      internalID: 21300020
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDivide
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886e8f5ade4345d0a0198d93ff83c03a
+      internalID: 21300022
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaitingAllNightCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6801a04c8d8f489d857595c5e366a0f5
+      internalID: 21300024
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DnaCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8703b33ca94f4916bcdf7ce0bdbd2db1
+      internalID: 21300026
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DionysusCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e96d0ec1286449e86c82f4ecabf7e5e
+      internalID: 21300028
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FakeLoveCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af06451dc20947e1848839d60a2bacdf
+      internalID: 21300030
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorsCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53003567b9c34bb3926ea112afb9f74b
+      internalID: 21300032
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IrresistibleCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46901fa776804c4e883f6ad50f01a37a
+      internalID: 21300034
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatTheCatCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6312121851794a49bc94bf2b2c13f954
+      internalID: 21300036
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NaturalCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d1501ad3843da8343139d321bb6e4
+      internalID: 21300038
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FamousCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebe77dc946c48539d0720741ed74364
+      internalID: 21300040
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AmericanIdiotCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b5f6d8f2448d6b3d602bf4a99df00
+      internalID: 21300042
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitThisEarthsAtomosphereCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f9ea4680e64e8899645fa7e4bbf312
+      internalID: 21300044
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmperorsNewClothesCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a2f7cd258441d82755500b200e9da
+      internalID: 21300046
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HowDoIMakeYouLoveMeCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f552fb4d937d40c2b363a5dfa0e56a74
+      internalID: 21300048
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SandstormCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa1d70bceb42a6adb05423ee41be9b
+      internalID: 21300050
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThisAintASceneCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daa5a8256ff45dbba094da0cd73ac02
+      internalID: 21300052
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TruthHurtsCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f36e217bd9c44639effb1a18f7fcca2
+      internalID: 21300054
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IWannaBeAMachineCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f38437e97e457fb72b89e114d6f427
+      internalID: 21300056
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ThereforeIAmCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f2c55611c04579ba9cbee0fc1cbd8f
+      internalID: 21300058
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakeMyBreathCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ad97d184cd46578348f23fa682d222
+      internalID: 21300060
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WitchcraftCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56df7e6a3330473faaca1b3e1422693c
+      internalID: 21300062
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RattlesnakeCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fbe48ef89b4756a927306256c6d283
+      internalID: 21300064
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrystallizedAndLightItUpCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b54fd70a8e4bea926f52e908eb99f6
+      internalID: 21300066
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoyWithLuvCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e922c6c8359e41299661c3fd581dbb79
+      internalID: 21300068
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AboutDamnTimeCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e3c27d4ca454fb3e4cdcf2b8bfdd3
+      internalID: 21300070
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstOfTheYearCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c081d2b9a1442e8a202dfd016440c6
+      internalID: 21300072
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INeedYouCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c554cc59343cd8da7ca09f9e198fc
+      internalID: 21300074
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CountingStarsCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30490e1f454f5383b48f92591c8165
+      internalID: 21300076
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadLiarCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4075279ab0554650b1d44f93cc9dca24
+      internalID: 21300078
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempoCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7536b035448b488cb8f6b3189d552e43
+      internalID: 21300080
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OriginsCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faf10ef0a4240e182429f016f79ca7b
+      internalID: 21300082
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FitBeat
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb7d7e2b934407d99e63b303c9b62ee
+      internalID: 21300084
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IcarusCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d74c0da8f34f41bfdc5219d216af24
+      internalID: 21300086
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 100BillsRemixCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd706a562cd7437ca08b7e51b7d12697
+      internalID: 21300088
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JustDanceCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0388e9140e64aeba75d0ded4f7009d8
+      internalID: 21300090
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpookyBeatCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72658e3c1df3439aac96793302e59c74
+      internalID: 21300092
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestMeCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700726f6f93a49f6ba4775efb3952101
+      internalID: 21300094
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CommercialPumpingCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390c795e88cc48849d20cbef540d52f6
+      internalID: 21300096
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GlideCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7c621f3d44e4abbe5147d0e14e14d
+      internalID: 21300098
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontChaCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033d37a0c7094564a4a6175c488066be
+      internalID: 21300100
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531f782e8f23472cb9d1b878bdd1edbe
+      internalID: 21300102
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireReadyAimCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1800a40f9419484228fce842530b6
+      internalID: 21300104
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LuvUNeedUCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30b95761cfd43848b26b1c1e47cba92
+      internalID: 21300106
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Numb
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42587437af5e4ff7b9e23edae94cc96a
+      internalID: 21300108
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneStepCloser
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041e3ed01f0c411fb7eace4924dd170f
+      internalID: 21300110
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CuzILoveYouCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb6eacef6949c6b42ecd95560794c1
+      internalID: 21300112
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DynamiteCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbbeb3575f044dca79245bb30ee706d
+      internalID: 21300114
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GhostsNStuffCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64db8ab654164509bdf15b6ba01f10d6
+      internalID: 21300116
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AngelVoicesCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 168
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cdcea18179e499ab811af477b624384
+      internalID: 21300118
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlayCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de6c6f11f743e896fdba3826f58e0f
+      internalID: 21300120
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RaggaBombCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551d4e2fe39437581e6322503d64dda
+      internalID: 21300122
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LudicrousPlusCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f3774076524e19bce2151eea19981b
+      internalID: 21300124
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WorshipCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 336
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd443831f0b14e6298c3e01b00593acd
+      internalID: 21300126
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FatherOfAllCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 504
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c440b013183435b94f25b50dff62e7d
+      internalID: 21300128
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NotTodayCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 672
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227f153bb8741f282a956c474b4c253
+      internalID: 21300130
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SomewhereIBelong
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cecdc012a44ae2b89224770cead301
+      internalID: 21300132
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheDevilsDenCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fcebdaca5e436b8aba6e3ca3cc2af0
+      internalID: 21300134
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PaparazziCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f47bec9ee6428d8d5dcd37643d19d5
+      internalID: 21300136
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StayTheNightCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83613caf2c4a4a74bbc237669729405a
+      internalID: 21300138
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GivenUp
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd8f05276ca4c1ca53d8a01aee87371
+      internalID: 21300140
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreakingTheHabit
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 840
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04085bd5e7e142ee88771c384cdb4de6
+      internalID: 21300142
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EpicCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccec4fbe04f4953a3a546398f434a6b
+      internalID: 21300144
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: $100BillsCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a23041f3a6470abb55107c9cb7bd0a
+      internalID: 21300146
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EscapeCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f34105ff442cf9cc544403cf6cde6
+      internalID: 21300148
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4605b9c497c042c8a593c6fe89baee02
+      internalID: 21300150
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TillItsOverCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dcea5baaa14f7b866830c305907fdc
+      internalID: 21300152
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RockNRollCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c97311af9462690b912bbaa209bc9
+      internalID: 21300154
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirestarterCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f7b7c9d9234f8a9a19ec1ea4f0ee2f
+      internalID: 21300156
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LvlInsaneCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58292cc585dc410590e04424e6ffbc73
+      internalID: 21300158
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BangarangCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c992c426c44e23b945b64bee937d01
+      internalID: 21300160
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RollinCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c5f31e1734dc59e518b37daca1ded
+      internalID: 21300162
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CycleHitCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2fccc9a604e27b7e5e8671baec0e7
+      internalID: 21300164
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BadGuyCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d39c74ea0d7b4bb9a2993af40be88db7
+      internalID: 21300166
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoundlessCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894d38408b1141eb8ea61103dcc9556a
+      internalID: 21300168
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StarboyCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e197864c0f2444f0af3d1b538c78001a
+      internalID: 21300170
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SugarCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183f51702d4d4457b4058d7cb6fd8f4e
+      internalID: 21300172
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KingsAndFolkCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdfb300628745678732e278fd6e722e
+      internalID: 21300174
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JuiceCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a676e8ab9f44e3b90911c907246e41
+      internalID: 21300176
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BreezerCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e83e906b954cd9a6a78faa118578f6
+      internalID: 21300178
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LegendCover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfc729c251647ddb1cb7bccf9d3aa02
+      internalID: 21300180
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CenturiesCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c395f8804241858a71ce600ac22507
+      internalID: 21300182
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ScaryMonstersAndNiceSpritesCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37105ad363a4a0293c26fdd4e7df11b
+      internalID: 21300184
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MySongsKnowCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3fbbe18c954313a05a60be2e3b926d
+      internalID: 21300186
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BornThisWayCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad74c7d959e048f981f39bfc8b440966
+      internalID: 21300188
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NDACover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9c810946ec4e3e81da500433677b81
+      internalID: 21300190
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheSweetEscapeCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b907f809f4f6471289b105e53f1965e7
+      internalID: 21300192
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RadioactiveAndItsTimeCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afce6d7c127249e6b3422100607f3acd
+      internalID: 21300194
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DontGoCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6420decbc24fd4907b131668dd49ee
+      internalID: 21300196
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SaveYourTearsCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdc13d94058433287614beb8f77e852
+      internalID: 21300198
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StupidLoveCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530138d97353424a980e552ac138e64f
+      internalID: 21300200
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AloneCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24beb2abfd044c1ea90ea7c744e8dfed
+      internalID: 21300202
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WeWontBeAloneCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73859bc2910a4ac8a6d96943b44cb669
+      internalID: 21300204
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DefaultSongArtwork
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b16599bebbd470fab663af0c3061270
+      internalID: 21300206
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CurtainsAllNightLongCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d67fef5d93143038896d855b9507b61
+      internalID: 21300208
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatIveDone
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a21659776e54ecb834e60aec3f77f99
+      internalID: 21300210
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HappierThanEverCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d060da62cba4a6ba7e13952fc3c5fbb
+      internalID: 21300212
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ElixiaCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248a84b6d70c4b968bd5009f558c154b
+      internalID: 21300214
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InTheEnd
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe61affb33446a9d595f49f12db548
+      internalID: 21300216
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurnMeOnCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f82669b81f94fa09650787241975eff
+      internalID: 21300218
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BelieverCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d90d64bc80146ed97cde3d61908c5d1
+      internalID: 21300220
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IntoTheDreamLevelCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4835c14ee5c949efa66b16de8c21a5bd
+      internalID: 21300222
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EmojiVIPCover
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051d153dd0bf4c8384a1b5156282c771
+      internalID: 21300224
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PrayForMeCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c43bebbc194b538a920935ccff8717
+      internalID: 21300226
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhileWereYoungCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef6dc9d28c1495394cda991fdd009a1
+      internalID: 21300228
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PokerFaceCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f175d7dbc69e499b82eb19060d39a3fa
+      internalID: 21300230
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2BeLovedCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43922089f1574dc4b18f46cc84d4e5ce
+      internalID: 21300232
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BleedItOut
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03c2b854dd461e9c2b0a15b61fdd39
+      internalID: 21300234
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UnlimitedPowerCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eda5d1b485443181fc2ae10e2238c1
+      internalID: 21300236
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IFeelItComingCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c391b3d460654ff09859f7ba4fbfc7bb
+      internalID: 21300238
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TelephoneCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfe6fb74f57417fbd6bafd89d7e52c2
+      internalID: 21300240
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpinEternallyCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3bc78142ef494a9b7cc31e239935a9
+      internalID: 21300242
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiveALittleLoveCover
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c9a52636e44ab817249a319e10b95
+      internalID: 21300244
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ShiawaseCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926ffc9d1d947d29299d0e64e5ef90b
+      internalID: 21300246
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhateverItTakesCover
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832b7121f0634b8abbf0def7d5ca2195
+      internalID: 21300248
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DopeCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62ceb3cb0104f2aaa5583c47dafd0e3
+      internalID: 21300250
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UghCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cfd2ea42a740578a3fed55640872e1
+      internalID: 21300252
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MachineCover
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e4fa39382743bca116efa57316e6bd
+      internalID: 21300254
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheHills
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087810922b84ca1a344e6c0b15ab360
+      internalID: 21300256
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolidayCover
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe86d364c2401ea8f9ace5ced2b8f8
+      internalID: 21300258
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MinorityCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df90262d46294fd4bbf047a2362cb71e
+      internalID: 21300260
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeThereForYouCover
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7449e099cd3b45759ff00ec1d3f6d471
+      internalID: 21300262
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IDidntChangeMyNumberCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e59309162f495e9c33605ffa299016
+      internalID: 21300264
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BuryAFriendCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c25dd1e184fb6aa91cfbceb7e561a
+      internalID: 21300266
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RainOnMeCover
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22277f68b4ac4285bc654c235817e12e
+      internalID: 21300268
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BurningUpCover
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f35c64c2744662ba768725a5fc4c34
+      internalID: 21300270
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OxytocinCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1008
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a998c2be164882b37edc9c9fb229fe
+      internalID: 21300272
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacrificeCover
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec077056bfb04562abb39b864103acd6
+      internalID: 21300274
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImmortalsCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1176
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccf85efc834552a54812dcda4f9196
+      internalID: 21300276
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TheEdgeOfGloryCover
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cb8b5af22645a1882422b8f59ddb5c
+      internalID: 21300278
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MicDropCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1344
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ff2617d8746b78724bae52adf3e50
+      internalID: 21300280
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YouShouldSeeMeInACrownCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1512
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad689caed51411b93ebf79b0aab88be
+      internalID: 21300282
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DollarSeventyEightCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1680
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c6742a809d4676b59ed0670046556a
+      internalID: 21300284
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButterfliesCover
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1848
+        width: 160
+        height: 160
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: -80}
+        - {x: -80, y: 80}
+        - {x: 80, y: 80}
+        - {x: 80, y: -80}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84d5df72fab445b9ffbdb01d2682186
+      internalID: 21300286
+      vertices:
+      - {x: 0, y: 160}
+      - {x: 160, y: 160}
+      - {x: 0, y: 0}
+      - {x: 160, y: 0}
+      indices: 000000000100000002000000020000000100000003000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CenturiesCover: 21300182
+      IFeelItComingCover: 21300238
+      BlindingLightsCover: 21300012
+      FireReadyAimCover: 21300104
+      GiveALittleLoveCover: 21300244
+      NaturalCover: 21300038
+      FakeLoveCover: 21300030
+      ThereforeIAmCover: 21300058
+      WhileWereYoungCover: 21300228
+      BellyacheCover: 21300008
+      TheDevilsDenCover: 21300134
+      ImmortalCover: 21300018
+      OriginsCover: 21300082
+      TillItsOverCover: 21300152
+      BeThereForYouCover: 21300262
+      SugarCover: 21300172
+      HowDoIMakeYouLoveMeCover: 21300048
+      WorshipCover: 21300126
+      TakeMyBreathCover: 21300060
+      GhostsNStuffCover: 21300116
+      $100BillsCover: 21300146
+      TurnMeOnCover: 21300218
+      BelieverCover: 21300220
+      ScaryMonstersAndNiceSpritesCover: 21300184
+      WhatTheCatCover: 21300036
+      StayTheNightCover: 21300138
+      DefaultSongArtwork: 21300206
+      HappierThanEverCover: 21300212
+      CycleHitCover: 21300164
+      BreezerCover: 21300178
+      CountingStarsCover: 21300076
+      JustDanceCover: 21300090
+      SandstormCover: 21300050
+      DontGoCover: 21300196
+      RattlesnakeCover: 21300064
+      AboutDamnTimeCover: 21300070
+      TheSweetEscapeCover: 21300192
+      PaparazziCover: 21300136
+      BreakingTheHabit: 21300142
+      ButterfliesCover: 21300286
+      FinalBossChanCover: 21300002
+      IWannaBeAMachineCover: 21300056
+      2BeLovedCover: 21300232
+      NotTodayCover: 21300130
+      IrresistibleCover: 21300034
+      DnaCover: 21300026
+      BurningUpCover: 21300270
+      PlayCover: 21300120
+      GivenUp: 21300140
+      NewDivide: 21300022
+      DynamiteCover: 21300114
+      FamousCover: 21300040
+      BangarangCover: 21300160
+      RadioactiveAndItsTimeCover: 21300194
+      BornThisWayCover: 21300188
+      WitchcraftCover: 21300062
+      EmojiVIPCover: 21300224
+      IDidntChangeMyNumberCover: 21300264
+      FirstOfTheYearCover: 21300072
+      INeedYouCover: 21300074
+      RainOnMeCover: 21300268
+      AngelVoicesCover: 21300118
+      CommercialPumpingCover: 21300096
+      GoodAsHellCover: 21300014
+      StarboyCover: 21300170
+      100BillsRemixCover: 21300088
+      PokerFaceCover: 21300230
+      SpinEternallyCover: 21300242
+      TempoCover: 21300080
+      BuryAFriendCover: 21300266
+      DollarSeventyEightCover: 21300284
+      EmperorsNewClothesCover: 21300046
+      KingsAndFolkCover: 21300174
+      MagicCover: 21300150
+      EpicCover: 21300144
+      ThisTimeCover: 21300016
+      AmericanIdiotCover: 21300042
+      IcarusCover: 21300086
+      CrystallizedAndLightItUpCover: 21300066
+      YouShouldSeeMeInACrownCover: 21300282
+      TheEdgeOfGloryCover: 21300278
+      TheGreatestShowCover: 21300004
+      FitBeat: 21300084
+      UghCover: 21300252
+      BadGuyCover: 21300166
+      HolidayCover: 21300258
+      RockNRollCover: 21300154
+      SaveYourTearsCover: 21300198
+      DontChaCover: 21300100
+      OxytocinCover: 21300272
+      RaggaBombCover: 21300122
+      BadLiarCover: 21300078
+      LvlInsaneCover: 21300158
+      MinorityCover: 21300260
+      LuvUNeedUCover: 21300106
+      BoundlessCover: 21300168
+      WeWontBeAloneCover: 21300204
+      GhostCover: 21300102
+      StupidLoveCover: 21300200
+      InTheEnd: 21300216
+      RollinCover: 21300162
+      MySongsKnowCover: 21300186
+      TelephoneCover: 21300240
+      OneStepCloser: 21300110
+      FatherOfAllCover: 21300128
+      TheHills: 21300256
+      AloneCover: 21300202
+      IntoTheDreamLevelCover: 21300222
+      SacrificeCover: 21300274
+      DionysusCover: 21300028
+      EscapeCover: 21300148
+      ImmortalsCover: 21300276
+      LudicrousPlusCover: 21300124
+      ShiawaseCover: 21300246
+      SpookyBeatCover: 21300092
+      WhateverItTakesCover: 21300248
+      DopeCover: 21300250
+      BoulevardOfBrokenDreamsCover: 21300010
+      TestMeCover: 21300094
+      UnlimitedPowerCover: 21300236
+      ThisAintASceneCover: 21300052
+      BoyWithLuvCover: 21300068
+      CurtainsAllNightLongCover: 21300208
+      ReasonForLivingCover: 21300020
+      WaitingAllNightCover: 21300024
+      CuzILoveYouCover: 21300112
+      NDACover: 21300190
+      PrayForMeCover: 21300226
+      DnaLamarCover: 21300000
+      TruthHurtsCover: 21300054
+      BleedItOut: 21300234
+      GlideCover: 21300098
+      Numb: 21300108
+      ExitThisEarthsAtomosphereCover: 21300044
+      WarriorsCover: 21300032
+      JuiceCover: 21300176
+      LegendCover: 21300180
+      ElixiaCover: 21300214
+      SomewhereIBelong: 21300132
+      FirestarterCover: 21300156
+      MicDropCover: 21300280
+      WhatIveDone: 21300210
+      MachineCover: 21300254
+      IDontCareCover: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

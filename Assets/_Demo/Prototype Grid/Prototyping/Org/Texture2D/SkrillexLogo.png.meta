@@ -1,0 +1,206 @@
+fileFormatVersion: 2
+guid: 313325cc8fc7f79449663e9244c0f737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SkrillexLogo
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 180
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkrillexLogo
+      rect:
+        serializedVersion: 2
+        x: 29.064629
+        y: 22.07612
+        width: 386.85925
+        height: 200.84775
+      alignment: 9
+      pivot: {x: 0.50906205, y: 0.49751058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -187.49426, y: -88.49999}
+        - {x: -193.49425, y: -46.499996}
+        - {x: -193.49425, y: 5.500008}
+        - {x: -192.49426, y: 9.500008}
+        - {x: -137.49426, y: 65.50001}
+        - {x: -117.494255, y: 73.50001}
+        - {x: -19.494265, y: 76.50001}
+        - {x: -3.4942632, y: 100.50001}
+        - {x: 92.50574, y: 100.50001}
+        - {x: 107.505745, y: 99.500015}
+        - {x: 114.50574, y: 90.50001}
+        - {x: 120.50573, y: 70.50001}
+        - {x: 166.50574, y: 74.50001}
+        - {x: 177.50574, y: 27.50001}
+        - {x: 193.50574, y: -26.499994}
+        - {x: 193.50574, y: -70.49999}
+        - {x: 186.50574, y: -82.49999}
+        - {x: 134.50574, y: -86.49999}
+        - {x: 129.50574, y: -100.5}
+        - {x: 62.505737, y: -100.5}
+        - {x: -33.494263, y: -72.49999}
+        - {x: -126.49426, y: -98.49999}
+        - {x: -179.49426, y: -99.49999}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd40668933374dcdafb74cecb6c65e83
+      internalID: 21300000
+      vertices:
+      - {x: 416, y: 96}
+      - {x: 409, y: 40}
+      - {x: 416, y: 52}
+      - {x: 400, y: 150}
+      - {x: 389, y: 197}
+      - {x: 357, y: 36}
+      - {x: 352, y: 21.999992}
+      - {x: 343, y: 193}
+      - {x: 337, y: 213}
+      - {x: 330, y: 222}
+      - {x: 315, y: 223}
+      - {x: 285, y: 21.999992}
+      - {x: 219, y: 223}
+      - {x: 203, y: 199}
+      - {x: 189, y: 50}
+      - {x: 105.00001, y: 196}
+      - {x: 96, y: 24}
+      - {x: 85, y: 188}
+      - {x: 43, y: 23}
+      - {x: 35, y: 34}
+      - {x: 30, y: 132}
+      - {x: 29.000015, y: 128}
+      - {x: 29.000015, y: 76}
+      indices: 1600000015000000130000001400000013000000150000001100000013000000140000001200000013000000110000001000000012000000110000000f00000010000000110000000e000000100000000f0000000d0000000e0000000f0000000b0000000e0000000d0000000c0000000b0000000d0000000a0000000b0000000c000000060000000b0000000a00000009000000060000000a000000080000000600000009000000070000000600000008000000040000000600000007000000050000000600000004000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SkrillexLogo: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 3693f1b71bf882e4eb60865991ea593b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: TrophyFirst
+  - first:
+      213: 21300002
+    second: TrophyThird
+  - first:
+      213: 21300004
+    second: TrophySecond
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrophyFirst
+      rect:
+        serializedVersion: 2
+        x: 0.026750982
+        y: 36.076122
+        width: 169.9465
+        height: 184.84775
+      alignment: 9
+      pivot: {x: 0.5019614, y: 0.49729508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.166664, y: 64.5}
+        - {x: -48.166664, y: 65.5}
+        - {x: -48.166664, y: 67.5}
+        - {x: -60.166664, y: 75.5}
+        - {x: -64.166664, y: 75.5}
+        - {x: -66.166664, y: 72.5}
+        - {x: -66.166664, y: 64.5}
+        - {x: -65.166664, y: 63.5}
+        - {x: -65.166664, y: 60.5}
+        - {x: -63.166664, y: 57.5}
+        - {x: -63.166664, y: 55.5}
+        - {x: -61.166664, y: 52.499996}
+        - {x: -59.166668, y: 50.5}
+        - {x: -58.16666, y: 47.5}
+        - {x: -55.166664, y: 43.5}
+        - {x: -55.166664, y: 42.5}
+        - {x: -48.166664, y: 35.5}
+        - {x: -47.166664, y: 35.5}
+        - {x: -44.166664, y: 32.5}
+        - {x: -43.166664, y: 32.5}
+        - {x: -42.166664, y: 31.5}
+        - {x: -43.166664, y: 35.5}
+        - {x: -44.166664, y: 36.5}
+        - {x: -44.166664, y: 45.5}
+        - {x: -45.166664, y: 46.5}
+        - {x: -46.166664, y: 59.500004}
+        - {x: -47.166664, y: 60.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95ad071d7e34cb6ad606a6a9a7685a1
+      internalID: 21300000
+      vertices:
+      - {x: 19.833336, y: 192}
+      - {x: 18.833336, y: 193}
+      - {x: 19.833336, y: 189}
+      - {x: 21.833336, y: 186}
+      - {x: 21.833336, y: 184}
+      - {x: 29.833336, y: 172}
+      - {x: 28.833336, y: 36}
+      - {x: 29.833336, y: 171}
+      - {x: 26.83334, y: 176}
+      - {x: 25.833332, y: 179}
+      - {x: 23.833336, y: 181}
+      - {x: -0.16666412, y: 221}
+      - {x: -0.16666412, y: 157}
+      - {x: 169.83334, y: 221}
+      - {x: 151.83334, y: 196}
+      - {x: 169.83334, y: 123}
+      - {x: 150.83334, y: 200}
+      - {x: 149.83334, y: 203}
+      - {x: 144.83334, y: 204}
+      - {x: 141.83334, y: 202}
+      - {x: 133.83334, y: 196}
+      - {x: 131.83334, y: 183}
+      - {x: 133.83334, y: 195}
+      - {x: 129.83334, y: 175}
+      - {x: 130.83334, y: 176}
+      - {x: 128.83334, y: 165}
+      - {x: 129.83334, y: 166}
+      - {x: 127.833336, y: 160}
+      - {x: 128.83334, y: 161}
+      - {x: 42.833336, y: 160}
+      - {x: 41.833336, y: 164}
+      - {x: 40.833336, y: 174}
+      - {x: 39.833336, y: 175}
+      - {x: 38.833336, y: 188}
+      - {x: 37.833336, y: 193}
+      - {x: 36.833336, y: 196}
+      - {x: 24.833336, y: 204}
+      - {x: 20.833336, y: 204}
+      - {x: 18.833336, y: 201}
+      - {x: 150.83334, y: 195}
+      - {x: 148.83334, y: 185}
+      - {x: 143.83333, y: 178}
+      - {x: 141.83334, y: 174}
+      - {x: 137.83333, y: 169}
+      - {x: 135.83334, y: 167}
+      - {x: 133.83334, y: 36}
+      - {x: 128.83334, y: 160}
+      - {x: 41.833336, y: 161}
+      - {x: 40.833336, y: 161}
+      - {x: 37.833336, y: 164}
+      - {x: 36.833336, y: 164}
+      - {x: 40.833336, y: 165}
+      - {x: 37.833336, y: 189}
+      - {x: 36.833336, y: 194}
+      indices: 350000002300000022000000340000002200000021000000330000001f0000001e0000002e0000001b0000001c00000006000000070000002d000000320000002d00000007000000310000002d00000032000000300000002d000000310000002f0000002d000000300000001d0000002d0000002f0000001b0000002d0000001d0000002e0000002d0000001b0000001c0000002d0000002e0000002c0000002d0000001c0000000f0000002d0000002c0000002b0000000f0000002c0000002a0000000f0000002b000000290000000f0000002a000000280000000f00000029000000270000000f000000280000000e0000000f000000270000000d000000250000000b000000260000000b00000025000000010000000b0000002600000024000000250000000d00000023000000240000000d00000022000000230000000d00000021000000220000000d00000020000000210000000d0000001f000000200000000d0000001e0000001f0000000d0000001d0000001e0000000d000000130000001d0000000d000000140000001d00000013000000170000001d000000140000001b0000001d00000017000000190000001b000000170000001c0000001b000000190000001a000000190000001700000015000000170000001400000018000000170000001500000016000000150000001400000012000000130000000d00000011000000120000000d00000010000000110000000d0000000e000000100000000d0000000f0000000e0000000d0000000c0000000b0000000600000001000000060000000b0000000200000006000000010000000400000006000000020000000a000000060000000400000009000000060000000a000000080000000600000009000000050000000600000008000000070000000600000005000000040000000200000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrophyThird
+      rect:
+        serializedVersion: 2
+        x: 344.0025
+        y: 69.04291
+        width: 163.92136
+        height: 152.88097
+      alignment: 9
+      pivot: {x: 0.5022581, y: 0.3856405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.129845, y: -76.48338}
+        - {x: -82.129845, y: 3.5166092}
+        - {x: -82.129845, y: 19.51661}
+        - {x: -80.129845, y: 22.51661}
+        - {x: -12.129845, y: 76.51661}
+        - {x: 17.870155, y: 76.51661}
+        - {x: 81.870155, y: 28.51661}
+        - {x: 81.870155, y: 3.5166092}
+        - {x: 55.870155, y: -76.48338}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0620e9a275a24aa8bf9722f4b111f952
+      internalID: 21300002
+      vertices:
+      - {x: 166.83334, y: 174}
+      - {x: 140.83334, y: 69}
+      - {x: 166.83334, y: 149}
+      - {x: 102.833336, y: 222}
+      - {x: 72.833336, y: 222}
+      - {x: 19.833336, y: 69}
+      - {x: 4.833336, y: 168}
+      - {x: 2.8333359, y: 165}
+      - {x: 2.8333359, y: 149}
+      indices: 080000000700000005000000060000000500000007000000040000000500000006000000010000000500000004000000030000000100000004000000000000000100000003000000020000000100000000000000
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrophySecond
+      rect:
+        serializedVersion: 2
+        x: 189.05132
+        y: 54.076122
+        width: 131.88657
+        height: 167.89713
+      alignment: 9
+      pivot: {x: 0.5095188, y: 0.4402927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.244598, y: -84.02469}
+        - {x: -66.2446, y: -34.02469}
+        - {x: -66.2446, y: 29.975311}
+        - {x: -38.2446, y: 76.97531}
+        - {x: -37.2446, y: 83.97531}
+        - {x: -19.244598, y: 83.97531}
+        - {x: 65.7554, y: 72.97531}
+        - {x: 65.7554, y: -56.02469}
+        - {x: -16.244598, y: -83.02469}
+        - {x: -18.244598, y: -84.02469}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0bc486dd03465c82c1963896205596
+      internalID: 21300004
+      vertices:
+      - {x: 149.75, y: 211}
+      - {x: 67.75, y: 55}
+      - {x: 149.75, y: 82}
+      - {x: 65.75, y: 54}
+      - {x: 64.75, y: 222}
+      - {x: 54.75, y: 54}
+      - {x: 46.75, y: 222}
+      - {x: 45.75, y: 215}
+      - {x: 17.75, y: 168}
+      - {x: 17.75, y: 104}
+      indices: 090000000800000005000000070000000500000008000000060000000500000007000000040000000500000006000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TrophyFirst: 21300000
+      TrophySecond: 21300004
+      TrophyThird: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

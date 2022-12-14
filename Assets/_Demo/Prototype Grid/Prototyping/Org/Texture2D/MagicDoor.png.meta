@@ -1,0 +1,256 @@
+fileFormatVersion: 2
+guid: af5d535e48c9ab340bda60a356fdb864
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MagicDoor
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicDoor
+      rect:
+        serializedVersion: 2
+        x: 97.07612
+        y: 36.076122
+        width: 316.84778
+        height: 437.84778
+      alignment: 9
+      pivot: {x: 0.50157803, y: 0.5022839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155.5, y: -197.00002}
+        - {x: -158.5, y: -181.00002}
+        - {x: -158.5, y: 145.99998}
+        - {x: -157.5, y: 175.99998}
+        - {x: -155.5, y: 190.99998}
+        - {x: -153.5, y: 201.99998}
+        - {x: -143.5, y: 213.99998}
+        - {x: -133.5, y: 216.99998}
+        - {x: -124.5, y: 218.99998}
+        - {x: -95.5, y: 218.99998}
+        - {x: -80.5, y: 213.99998}
+        - {x: -73.5, y: 210.99998}
+        - {x: -65.5, y: 204.99998}
+        - {x: -9.5, y: 159.99998}
+        - {x: 3.5, y: 155.99998}
+        - {x: 61.5, y: 200.99998}
+        - {x: 70.5, y: 208.99998}
+        - {x: 79.5, y: 214.99998}
+        - {x: 98.5, y: 218.99998}
+        - {x: 125.5, y: 218.99998}
+        - {x: 133.5, y: 216.99998}
+        - {x: 143.5, y: 212.99998}
+        - {x: 151.5, y: 203.99998}
+        - {x: 156.5, y: 191.99998}
+        - {x: 157.5, y: 175.99998}
+        - {x: 158.5, y: 145.99998}
+        - {x: 158.5, y: -169.00002}
+        - {x: 157.5, y: -181.00002}
+        - {x: 155.5, y: -192.00002}
+        - {x: 153.5, y: -202.00002}
+        - {x: 143.5, y: -213.00002}
+        - {x: 137.5, y: -217.00002}
+        - {x: 126.5, y: -219.00002}
+        - {x: 95.5, y: -219.00002}
+        - {x: 78.5, y: -216.00002}
+        - {x: 66.5, y: -213.00002}
+        - {x: 38.5, y: -202.00002}
+        - {x: 5.5, y: -191.00002}
+        - {x: -5.5, y: -191.00002}
+        - {x: -13.5, y: -193.00002}
+        - {x: -52.5, y: -207.00002}
+        - {x: -65.5, y: -212.00002}
+        - {x: -77.5, y: -216.00002}
+        - {x: -96.5, y: -219.00002}
+        - {x: -122.5, y: -219.00002}
+        - {x: -128.5, y: -218.00002}
+        - {x: -137.5, y: -217.00002}
+        - {x: -150.5, y: -207.00002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61755f94729147fda43929c8e1aeed31
+      internalID: 21300000
+      vertices:
+      - {x: 413, y: 431}
+      - {x: 414, y: 86}
+      - {x: 414, y: 401}
+      - {x: 413, y: 74}
+      - {x: 412, y: 447}
+      - {x: 411, y: 63}
+      - {x: 409, y: 53}
+      - {x: 407, y: 459}
+      - {x: 399, y: 468}
+      - {x: 399, y: 42}
+      - {x: 393, y: 38}
+      - {x: 389, y: 472}
+      - {x: 382, y: 36}
+      - {x: 381, y: 474}
+      - {x: 354, y: 474}
+      - {x: 351, y: 36}
+      - {x: 335, y: 470}
+      - {x: 334, y: 39}
+      - {x: 326, y: 464}
+      - {x: 322, y: 42}
+      - {x: 317, y: 456}
+      - {x: 294, y: 53}
+      - {x: 261, y: 64}
+      - {x: 259, y: 411}
+      - {x: 250, y: 64}
+      - {x: 246, y: 415}
+      - {x: 242, y: 62}
+      - {x: 203, y: 48}
+      - {x: 190, y: 460}
+      - {x: 190, y: 43}
+      - {x: 182, y: 466}
+      - {x: 178, y: 39}
+      - {x: 175, y: 469}
+      - {x: 160, y: 474}
+      - {x: 159, y: 36}
+      - {x: 133, y: 36}
+      - {x: 131, y: 474}
+      - {x: 127, y: 37}
+      - {x: 122, y: 472}
+      - {x: 118, y: 38}
+      - {x: 112, y: 469}
+      - {x: 105, y: 48}
+      - {x: 102, y: 457}
+      - {x: 100, y: 446}
+      - {x: 100, y: 58}
+      - {x: 98, y: 431}
+      - {x: 97, y: 401}
+      - {x: 97, y: 74}
+      indices: 2f0000002e0000002c0000002d0000002c0000002e0000002b0000002c0000002d000000290000002c0000002b0000002a000000290000002b00000028000000290000002a0000002700000029000000280000002600000027000000280000002500000027000000260000002400000025000000260000002300000025000000240000002100000023000000240000002200000023000000210000001f0000002200000021000000200000001f000000210000001e0000001f000000200000001d0000001f0000001e0000001c0000001d0000001e0000001b0000001d0000001c000000190000001b0000001c0000001a0000001b00000019000000180000001a000000190000001700000018000000190000001600000018000000170000001400000016000000170000001500000016000000140000001300000015000000140000001200000013000000140000001100000013000000120000001000000011000000120000000f00000011000000100000000e0000000f000000100000000c0000000f0000000e0000000d0000000c0000000e0000000b0000000c0000000d0000000a0000000c0000000b000000080000000a0000000b000000090000000a00000008000000060000000900000008000000070000000600000008000000040000000600000007000000050000000600000004000000030000000500000004000000000000000300000004000000010000000300000000000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagicDoor: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

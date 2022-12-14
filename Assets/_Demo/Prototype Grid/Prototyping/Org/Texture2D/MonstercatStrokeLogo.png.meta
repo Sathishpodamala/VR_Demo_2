@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 4e7fb59a3053a2a469803226bce04639
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: MonstercatStrokeLogo
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 512
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MonstercatStrokeLogo
+      rect:
+        serializedVersion: 2
+        x: 12.07612
+        y: 6.0761204
+        width: 332.84778
+        height: 423.84778
+      alignment: 9
+      pivot: {x: 0.5045065, y: 0.49764064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126.500015, y: -198.00002}
+        - {x: -135.50002, y: -154.00002}
+        - {x: -132.50002, y: -127.000015}
+        - {x: -153.50002, y: -121.000015}
+        - {x: -160.50002, y: -111.000015}
+        - {x: -166.50002, y: -98.000015}
+        - {x: -166.50002, y: -54.000015}
+        - {x: -159.50002, y: -31.000015}
+        - {x: -151.50002, y: 9.999985}
+        - {x: -141.50002, y: 27.999985}
+        - {x: -145.50002, y: 52.999985}
+        - {x: -137.50002, y: 107.999985}
+        - {x: -125.500015, y: 134.99998}
+        - {x: -111.500015, y: 179.99998}
+        - {x: -91.500015, y: 194.99998}
+        - {x: -34.500015, y: 190.99998}
+        - {x: -3.5000153, y: 211.99998}
+        - {x: 40.499985, y: 211.99998}
+        - {x: 51.499985, y: 209.99998}
+        - {x: 66.499985, y: 199.99998}
+        - {x: 81.499985, y: 161.99998}
+        - {x: 91.499985, y: 151.99998}
+        - {x: 121.499985, y: 110.999985}
+        - {x: 130.49998, y: 70.999985}
+        - {x: 143.49998, y: 61.999985}
+        - {x: 155.49998, y: 30.999985}
+        - {x: 156.49998, y: -3.0000153}
+        - {x: 150.49998, y: -32.000015}
+        - {x: 164.49998, y: -50.000015}
+        - {x: 166.49998, y: -69.000015}
+        - {x: 166.49998, y: -118.000015}
+        - {x: 158.49998, y: -135.00002}
+        - {x: 150.49998, y: -143.00002}
+        - {x: 133.49998, y: -152.00002}
+        - {x: 90.499985, y: -160.00002}
+        - {x: 51.499985, y: -159.00002}
+        - {x: 43.499985, y: -188.00002}
+        - {x: 32.499985, y: -201.00002}
+        - {x: 10.499985, y: -207.00002}
+        - {x: -8.500015, y: -211.00002}
+        - {x: -26.500015, y: -212.00002}
+        - {x: -95.500015, y: -212.00002}
+        - {x: -109.500015, y: -210.00002}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92be5524200d40cf82713e7fd3ce9749
+      internalID: 21300000
+      vertices:
+      - {x: 41, y: 326}
+      - {x: 33, y: 271}
+      - {x: 37, y: 246}
+      - {x: 334, y: 249}
+      - {x: 329, y: 186}
+      - {x: 335, y: 215}
+      - {x: 322, y: 280}
+      - {x: 329, y: 75}
+      - {x: 312, y: 66}
+      - {x: 309, y: 289}
+      - {x: 300, y: 329}
+      - {x: 270, y: 370}
+      - {x: 269, y: 58}
+      - {x: 260, y: 380}
+      - {x: 245, y: 418}
+      - {x: 230, y: 428}
+      - {x: 230, y: 59}
+      - {x: 222, y: 30}
+      - {x: 219, y: 430}
+      - {x: 211, y: 17}
+      - {x: 189, y: 11}
+      - {x: 175, y: 430}
+      - {x: 170, y: 7}
+      - {x: 152, y: 6}
+      - {x: 144, y: 409}
+      - {x: 87, y: 413}
+      - {x: 83, y: 6}
+      - {x: 69, y: 8}
+      - {x: 67, y: 398}
+      - {x: 53, y: 353}
+      - {x: 52, y: 20}
+      - {x: 46, y: 91}
+      - {x: 27, y: 228}
+      - {x: 25, y: 97}
+      - {x: 19, y: 187}
+      - {x: 18, y: 107}
+      - {x: 12, y: 164}
+      - {x: 12, y: 120}
+      - {x: 343, y: 168}
+      - {x: 345, y: 100}
+      - {x: 345, y: 149}
+      - {x: 337, y: 83}
+      - {x: 43, y: 64}
+      indices: 2a0000001f0000001e0000000700000004000000290000002600000029000000040000002700000029000000260000002800000027000000260000002500000024000000230000002200000023000000240000002100000023000000220000002000000021000000220000001f0000002100000020000000020000001f00000020000000000000001f000000020000001d0000001f000000000000001e0000001f0000001d0000001b0000001e0000001d0000001c0000001b0000001d000000190000001b0000001c0000001a0000001b00000019000000170000001a000000190000001800000017000000190000001500000017000000180000001600000017000000150000001400000016000000150000001200000014000000150000001300000014000000120000001100000013000000120000000f000000110000001200000010000000110000000f0000000c000000100000000f0000000e0000000c0000000f0000000d0000000c0000000e0000000b0000000c0000000d000000080000000c0000000b0000000a000000080000000b00000009000000080000000a000000060000000800000009000000070000000800000006000000040000000700000006000000030000000400000006000000050000000400000003000000020000000100000000000000
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MonstercatStrokeLogo: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
